@@ -1,4 +1,4 @@
-# Problem Statment:
+# Objective:
 
 Analyze Pizza Palace's sales data to identify key insights into their business performance, including customer behavior, purchasing patterns, and sales trends. 
 
